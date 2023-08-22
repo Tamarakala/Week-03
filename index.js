@@ -58,3 +58,29 @@ let alphabetArray = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
  * 
  * 
  * ↓ YOUR CODE HERE ↓ */
+
+
+
+
+
+
+// Question 3: array1
+console.log(`--------------------------
+Question 3: array1 \n`);
+
+let array1 = [1, 5, 6, 9, 10, 14];
+
+/*
+ * Using the provided code above, print the results to the console for each step:
+ * Step 1: Print array1 to the console 
+ * Step 2: Print the 3rd element in array1 
+ * Step 3: Print the last element in array1
+ * Step 4: Add 16 and 3 to array1 and Print the updated array.(See documentation: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
+ * Step 5: Print the 3rd element again.
+ * Step 6: Print the last element again. Did it change from earlier? Are you able to get the last element that was just added?
+ * 
+ * 
+ * ↓ YOUR CODE HERE ↓ */
+
+
+
